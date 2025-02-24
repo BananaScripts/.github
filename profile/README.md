@@ -1,5 +1,5 @@
 # Hello! We are the BananaScript Group 👋
-We are students at <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC in São José dos Campos</a> and are currently in the 4th semester of Multiplatform Software Development.
+We are students at <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC in São José dos Campos</a> and are currently in the 5th semester of Multiplatform Software Development.
 
 We have been working together for almost two years and have experience in technologies such as Github, Git, Java, Python, React, Typescript, Html5, CSS, among others.
 
@@ -11,7 +11,7 @@ We have been working together for almost two years and have experience in techno
 | Douglas Medeiros |<a href='https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/DouglasMedeiros1'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 | Kaue Riki |<a href='https://www.linkedin.com/in/kau%C3%AA-riki-70b518273/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/kaueriki'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 | Miguel Conde |<a href='https://www.linkedin.com/in/miguel-conde-santos-a67313271/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/miguelcondesantos'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-| Gabriel Henrique Siqueira |<a href='https://www.linkedin.com/in/gabriel-siqueira-54b535279/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/GaSiqueira'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
+| Antonio Alexandre |<a href='https://www.linkedin.com/in/antonio-nepomuceno/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/Nepoun'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 
 <br>
 
